@@ -67,7 +67,7 @@ void Commodore64()
     printLine(line++, "HELLO WORLD");
 
     GFX_drawChar(150, 150, 66, FOREGROUND,
-				  BACKGROUND, 8, 16);
+				  BACKGROUND, 2, 4);
 
     while (true)
     {

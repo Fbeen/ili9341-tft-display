@@ -25,7 +25,7 @@
 
 #define TFT_WIDTH       240
 #define TFT_HEIGHT      320
-#define TFT_ROTATION    0
+#define TFT_ROTATION    3
 
 // Pin definitions for the SD card
 #define SD_SCLK         10
